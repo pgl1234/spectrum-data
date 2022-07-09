@@ -16,6 +16,6 @@ The spectrum analyzer is used to collect spectrum data. Herein, it is interfered
 
 __2. Load Dataset__
 
-Org_Sensing_Spectrum_Dataset.txt
+File Org_Sensing_Spectrum_Dataset.txt is the dataset.
 
 
