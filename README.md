@@ -5,7 +5,7 @@ __1. Introduction__
 
 This dataset is used to validate the algorithm proposed in this work. Figure 1 shows the real platform where the simulated communication is interfered.
 
-.<div align=center><img src="https://github.com/pgl1234/spectrum-data/blob/main/Images/platform.png" width="700" height="450" /></div>
+.<div align=center><img src="https://github.com/pgl1234/spectrum-data/blob/main/Images/platform.png" width="600" height="400" /></div>
 <p align="center">  
  Figure 1. Real simulation experiment platform.
 </p>
