@@ -5,4 +5,4 @@ This dataset is used to validate the algorithm proposed in this work. Figure 1 s
 
 ![](https://github.com/pgl1234/spectrum-data/blob/main/Images/platform.png)
 
-          Figure 1. Real simulation experiment platform.
+          **Figure 1.** Real simulation experiment platform.
