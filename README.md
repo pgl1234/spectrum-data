@@ -4,7 +4,7 @@ Paper: Deep Learning and Bayesian Optimization Based Spectrum Availability Predi
 
 This dataset is used to validate the algorithm proposed in this work. Figure 1 shows the real platform where the simulated communication is interfered.
 
-.<div align=center><img src="https://github.com/pgl1234/spectrum-data/blob/main/Images/platform.png" width="700" height="500" /></div>
+.<div align=center><img src="https://github.com/pgl1234/spectrum-data/blob/main/Images/platform.png" width="750" height="500" /></div>
 <p align="center">  
  Figure 1. Real simulation experiment platform.
 </p>
