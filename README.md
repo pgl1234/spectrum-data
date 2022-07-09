@@ -4,7 +4,7 @@ Paper: Deep Learning and Bayesian Optimization Based Spectrum Availability Predi
 
 This dataset is used to validate the algorithm proposed in this work. Figure 1 shows the real platform where the simulated communication is interfered.
 
-![](https://github.com/pgl1234/spectrum-data/blob/main/Images/platform.png  width="150" height="200")<br>
+![](https://github.com/pgl1234/spectrum-data/blob/main/Images/platform.png)<br>
           Figure 1. Real simulation experiment platform.<br>
 
 We simulate a malicious user to interfere the wireless communication link. The jammer uses USRP 2943R to achieve, multiple interference modes are adopted (e.g., sweep interference, fixed frequency interference, etc.), interference to signal ratio is 10 dB and interference power is greater than -50 dBm. Spectrum sensor monitoring range is 50 MHz to 2.2 GHz. Transmitter and receiver operating power is less than -50dbm. <br>
