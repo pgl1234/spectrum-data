@@ -1,5 +1,5 @@
 # Dataset
-Paper: Deep Learning and Bayesian Optimization Based Spectrum Availability Prediction in Cognitive Radio Networks
+:smile: Paper: Deep Learning and Bayesian Optimization Based Spectrum Availability Prediction in Cognitive Radio Networks
 ----
 __1. Introduction__
 
