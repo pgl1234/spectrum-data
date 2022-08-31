@@ -18,13 +18,13 @@ __2. Load Dataset__
 
 File Org_Sensing_Spectrum_Dataset.txt is the dataset.
 
-__2. The Proposed Method__
+__3. The Proposed Method__
 
-.<div align=center><img src="https://github.com/pgl1234/spectrum-data/blob/main/Images/Method_frame.png" width="800" height="300" /></div>
+.<div align=center><img src="https://github.com/pgl1234/spectrum-data/blob/main/Images/Method_frame.png" width="820" height="300" /></div>
 <p align="center">  
  Figure 2. Structure of the proposed method.
 </p>
 
-In this paper, we have proposed a DL-BO method for spectrum prediction. Specifically, a communication link interference scenario is considered to model the spectrum prediction problem. Then, we design a prediction model composed of stacked Bi-LSTM, which can accurately capture the temporal correlation of spectrum data. Based on model-driven, we design a Bayesian regression method to optimize the hyperparameters of the model, achieving a global optimum in a given hyperparameter space. On a real experimental platform, simulation results have shown that the proposed prediction method dramatically outperforms different benchmarks under different parameter settings.
+As shown in Fig. 2, the structure of the proposed method. In this paper, we have proposed a DL-BO method for spectrum prediction. Specifically, a communication link interference scenario is considered to model the spectrum prediction problem. Then, we design a prediction model composed of stacked Bi-LSTM, which can accurately capture the temporal correlation of spectrum data. Based on model-driven, we design a Bayesian regression method to optimize the hyperparameters of the model, achieving a global optimum in a given hyperparameter space. On a real experimental platform, simulation results have shown that the proposed prediction method dramatically outperforms different benchmarks under different parameter settings.
 
 
