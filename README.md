@@ -20,7 +20,7 @@ File Org_Sensing_Spectrum_Dataset.txt is the dataset.
 
 __2. The Proposed Method__
 
-.<div align=center><img src="https://github.com/pgl1234/spectrum-data/blob/main/Images/Method_frame.png" width="650" height="430" /></div>
+.<div align=center><img src="https://github.com/pgl1234/spectrum-data/blob/main/Images/Method_frame.png" width="800" height="300" /></div>
 <p align="center">  
  Figure 2. Structure of the proposed method.
 </p>
