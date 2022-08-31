@@ -1,5 +1,5 @@
 # Dataset
-:smile: Paper: Deep Learning and Bayesian Optimization Based Spectrum Availability Prediction in Cognitive Radio Networks
+:smile: Paper: Data-Model Dual-Driven for Spectrum Prediction: A Deep Learning with Bayesian Theory Approach
 ----
 __1. Introduction__
 
@@ -17,5 +17,9 @@ The spectrum analyzer is used to collect spectrum data. Herein, either interferi
 __2. Load Dataset__
 
 File Org_Sensing_Spectrum_Dataset.txt is the dataset.
+
+__2. The Proposed Method__
+
+In this paper, we have proposed a DL-BO method for spectrum prediction. Specifically, a communication link interference scenario is considered to model the spectrum prediction problem. Then, we design a prediction model composed of stacked Bi-LSTM, which can accurately capture the temporal correlation of spectrum data. Based on model-driven, we design a Bayesian regression method to optimize the hyperparameters of the model, achieving a global optimum in a given hyperparameter space. On a real experimental platform, simulation results have shown that the proposed prediction method dramatically outperforms different benchmarks under different parameter settings.
 
 
