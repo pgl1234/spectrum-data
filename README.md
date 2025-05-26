@@ -21,7 +21,8 @@ __3. The Proposed Method__
  Figure 2. Structure of the proposed method.
 </p>
 
-__4. Citation
+__4. Citation__
+
 If you find this repository useful, please cite our paper.
 
 ```
@@ -32,7 +33,7 @@ If you find this repository useful, please cite our paper.
 	volume={22},
 	pages={1--13},
 	year={2025},
- doi={10.23919/JCC.ja.2022-0667}}
+        doi={10.23919/JCC.ja.2022-0667}}
  ```
 
 
