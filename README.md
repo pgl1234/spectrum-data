@@ -21,5 +21,18 @@ __3. The Proposed Method__
  Figure 2. Structure of the proposed method.
 </p>
 
+__4. Citation
+If you find this repository useful, please cite our paper.
+
+```
+	@article{chinacom,
+	title={Multi-Channel Multi-Step Spectrum Prediction Using Transformer and Stacked Bi-LSTM},
+	author={Guangliang Pan and Jie Li and Minglei Li},
+	journal={China Communications},
+	volume={22},
+	pages={1--13},
+	year={2025},
+ doi={10.23919/JCC.ja.2022-0667}}
+ ```
 
 
