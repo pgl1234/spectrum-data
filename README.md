@@ -31,9 +31,9 @@ If you find this repository useful, please cite our paper.
 	author={Guangliang Pan and Jie Li and Minglei Li},
 	journal={China Communications},
 	volume={22},
+        number={5},
 	pages={1--13},
-	year={2025},
-        doi={10.23919/JCC.ja.2022-0667}}
+	year={2025}}
  ```
 
 
